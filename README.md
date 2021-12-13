@@ -8,5 +8,9 @@ HTML
 CSS
 JavaScript
 
+### Link to github repository
+https://github.com/Yashemabeth
 
+### Link to deployed application
+https://Yashemabeth.github.io/code-quiz/
 
