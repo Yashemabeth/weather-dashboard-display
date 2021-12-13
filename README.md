@@ -12,5 +12,5 @@ JavaScript
 https://github.com/Yashemabeth
 
 ### Link to deployed application
-https://Yashemabeth.github.io/code-quiz/
+https://github.com/Yashemabeth/weather-dashboard-display
 
