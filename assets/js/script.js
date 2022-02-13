@@ -6,10 +6,10 @@
 const APIKey ="16ba6a2f486f5372a02b085440296625";
 const cityName = "London";
 const url =`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${APIKey}`;
-$.get(url, function(data, status) {
-    console.log(`${JSON.stringify(data)}`)
+// $.get(url, function(data, status) {
+//     console.log(`${JSON.stringify(data)}`)
 
-});
+// });
 
 // Global variables
 var searchHistory = [];
