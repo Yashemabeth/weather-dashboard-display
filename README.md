@@ -12,6 +12,5 @@ JavaScript
 https://github.com/Yashemabeth
 
 ### Link to deployed application
-https://github.com/Yashemabeth/weather-dashboard-display
-
+ https://yashemabeth.github.io/weather-dashboard-display/
 
